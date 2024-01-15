@@ -1,4 +1,4 @@
-# This repository shows all string methods built into JavaScript.
+# This repository shows all JavaScript string methods built into ES6 (ECMAScript 2020).
 
 1. charAt
 2. indexOf
